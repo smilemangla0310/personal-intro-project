@@ -37,8 +37,9 @@ Python 3.x
 
 &nbsp;  ```bash
 
-&nbsp;  git clone https://github.com/smilemangla0310
-/personal-intro-project.git
+&nbsp;  git clone https://github.com/smilemangla0310/personal-intro-project.git
+
+
 
 
 
